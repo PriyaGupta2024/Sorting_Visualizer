@@ -3,12 +3,9 @@
 A desktop app built with Python and Tkinter that shows how **Bubble Sort**, **Merge Sort** and **Quick Sort** work, step by step, using animated, colour-coded bars.
 
 > My first project, published on GitHub on 14 June 2024, to understand DSA sorting concepts by *seeing* them run instead of only reading code.
+## Demo Video
 
-<!-- TODO: add 
-
-https://github.com/user-attachments/assets/ed834af2-f6f8-4e50-81ef-e8ad0a0fc4da
-
- GIF of the app running, e.g. ![Demo](demo/sorting-demo.gif) -->
+https://github.com/user-attachments/assets/0ed7c5b8-5cce-475e-bed1-b5a8b14a01d4
 
 ## Why I built it
 
